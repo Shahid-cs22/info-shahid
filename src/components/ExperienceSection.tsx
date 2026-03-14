@@ -2,22 +2,22 @@ import AnimatedSection from "./AnimatedSection";
 
 const experiences = [
   {
-    role: "Senior Frontend Developer",
-    company: "TechCorp Inc.",
-    period: "2022 — Present",
-    description: "Leading the frontend team in building scalable SaaS products. Improved page load times by 40% and implemented a design system used across 3 products.",
+    role: "MERN Stack Developer",
+    company: "JClick Solution, Nagercoil",
+    period: "2025 — Present",
+    description: "Gained practical experience in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js, focusing on responsive UI design, API development, and database management.",
   },
   {
-    role: "Full Stack Developer",
-    company: "StartupXYZ",
-    period: "2020 — 2022",
-    description: "Built and maintained the core platform serving 50K+ users. Architected the real-time notification system and payment integration.",
+    role: "React Developer",
+    company: " AK Infopark, Nagercoil",
+    period: "2024",
+    description: "Learned React.js and frontend frameworks, strengthening skills in web development and UI design.",
   },
   {
-    role: "Junior Developer",
-    company: "WebAgency Co.",
-    period: "2018 — 2020",
-    description: "Developed responsive websites and web applications for diverse clients. Collaborated with designers to deliver pixel-perfect interfaces.",
+    role: "Frontend Developer",
+    company: "Rexcoders Academy, Nagercoil ",
+    period: "2023",
+    description: "Learned basic HTML, CSS & JS building a foundation in web development and page styling.",
   },
 ];
 

@@ -9,12 +9,12 @@ const AboutSection = () => (
       <div className="w-16 h-1 bg-primary rounded mb-8" />
       <div className="grid md:grid-cols-2 gap-12">
         <div className="space-y-4 font-body text-muted-foreground leading-relaxed">
-          <p>
-            I'm a passionate full-stack developer with 5+ years of experience building
-            modern web applications. I love turning complex problems into simple,
-            beautiful, and intuitive solutions.
+          <p className="text-justify">
+            Computer Science student and passionate Full Stack Developer with hands-on experience building scalable web apps
+            using React and modern JavaScript frameworks. Skilled in both front-end and back-end development, version control, and
+            responsive design. Eager to contribute to innovative tech solutions and grow in a collaborative environment.
           </p>
-          <p>
+          <p className="text-justify">
             When I'm not coding, you'll find me exploring new technologies,
             contributing to open-source projects, or enjoying a good cup of coffee.
           </p>
@@ -22,7 +22,7 @@ const AboutSection = () => (
         <div className="space-y-4">
           <h3 className="font-display text-lg font-semibold text-foreground">Tech Stack</h3>
           <div className="flex flex-wrap gap-2">
-            {["JavaScript","React", "TypeScript", "Node.js", "MongoDB", "Express.js", "Python", "Tailwind CSS", "Next.js", "PHP"].map(
+            {["JavaScript", "React", "TypeScript", "Node.js", "MongoDB", "Express.js", "Bootstrap", "Python", "Tailwind CSS", "Next.js", "MUI", "PHP", "Git", "GitHub"].map(
               (tech) => (
                 <span
                   key={tech}

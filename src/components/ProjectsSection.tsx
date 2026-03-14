@@ -3,19 +3,19 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "TaskFlow",
-    description: "A project management app with real-time collaboration, Kanban boards, and AI-powered task suggestions.",
-    tech: ["React", "Node.js", "PostgreSQL", "WebSocket"],
+    title: "Cakekart",
+    description: "Developed a responsive e-commerce cake ordering app using React and Redux with authentication, product listing, cart, and order features. Integrated APIs using Axios, implemented YUP validation, and used JSON Server as the backend.",
+    tech: ["React", "JSON Server", "MUI", "Api's", "Axios"],
   },
   {
-    title: "CryptoTracker",
-    description: "Real-time cryptocurrency portfolio tracker with interactive charts, alerts, and portfolio analytics.",
-    tech: ["Next.js", "Python", "Redis", "Chart.js"],
+    title: "Elite Car Shop",
+    description: "Developed a responsive static website for a real client using React, leveraging reusable components to deliver a clean, modern UI and an optimized user experience across devices.",
+    tech: ["React", "JSON Server", "MUI", "Api's"],
   },
   {
-    title: "DevBlog",
-    description: "A minimalist blogging platform for developers with Markdown support, syntax highlighting, and RSS feeds.",
-    tech: ["TypeScript", "Astro", "Tailwind", "MDX"],
+    title: "FoodHub",
+    description: "Developed a food ordering web application that allows users to browse menus, add items to cart, and place orders. Implemented React Hooks for state management and React Router DOM for navigation across multiple views.",
+    tech: ["React", "Hooks", "DOM ", "Tailwind"],
   },
 ];
 
@@ -23,7 +23,7 @@ const ProjectsSection = () => (
   <AnimatedSection id="projects" className="py-24">
     <div className="container max-w-4xl">
       <h2 className="font-display text-3xl sm:text-4xl font-bold mb-2">
-        Featured <span className="text-primary">Projects</span>
+        <span className="text-primary">Projects</span>
       </h2>
       <div className="w-16 h-1 bg-primary rounded mb-12" />
       <div className="grid gap-6">
@@ -37,7 +37,7 @@ const ProjectsSection = () => (
                 {project.title}
               </h3>
               <div className="flex gap-3 text-muted-foreground">
-                <a href="#" className="hover:text-primary transition-colors"><Github size={18} /></a>
+                <a href="https://github.com/Shahid-cs22" className="hover:text-primary transition-colors"><Github size={18} /></a>
                 <a href="#" className="hover:text-primary transition-colors"><ExternalLink size={18} /></a>
               </div>
             </div>

@@ -4,16 +4,22 @@ import { GraduationCap } from "lucide-react";
 
 const education = [
   {
-    degree: "M.Sc. Computer Science",
-    school: "MIT — Massachusetts Institute of Technology",
-    period: "2016 — 2018",
-    details: "Specialized in distributed systems and machine learning. Thesis on real-time data processing architectures.",
+    degree: "B.E, CSE",
+    school: "Stella Mary's College of Engineering, Kanyakumari",
+    period: "2022 — 2026",
+    details: "Graduated with honors. Active member of the ACM student chapter and hackathon organizer.",
   },
   {
-    degree: "B.Sc. Software Engineering",
-    school: "Stanford University",
-    period: "2012 — 2016",
-    details: "Graduated with honors. Active member of the ACM student chapter and hackathon organizer.",
+    degree: "Higher Secondary Education",
+    school: "GHSS, Eathamozhi",
+    period: "2021 — 2022",
+    details: "Government Higher Secondary School, Eathamozhi Specialization: Computer Science | Scored 390 marks in Public Examination",
+  },
+  {
+    degree: "Secondary School Leaving Certificate",
+    school: "GHSS, Eathamozhi",
+    period: "2019 - 2020",
+    details: "Government Higher Secondary School, Eathamozhi Scored 340 marks in Public Examination.",
   },
 ];
 

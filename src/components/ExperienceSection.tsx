@@ -11,13 +11,13 @@ const experiences = [
     role: "React Developer",
     company: " AK Infopark, Nagercoil",
     period: "2024",
-    description: "Learned React.js and frontend frameworks, strengthening skills in web development and UI design.",
+    description: "Built and maintained dynamic web applications using React.js. Implemented component-based architecture, managed state efficiently, and enhanced responsive UI performance.",
   },
   {
     role: "Frontend Developer",
     company: "Rexcoders Academy, Nagercoil ",
     period: "2023",
-    description: "Learned basic HTML, CSS & JS building a foundation in web development and page styling.",
+    description: "Developed and optimized responsive web pages using HTML, CSS, and JavaScript. Improved UI layout, ensured cross-browser compatibility, and followed clean coding practices.",
   },
 ];
 

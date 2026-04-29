@@ -10,14 +10,11 @@ const AboutSection = () => (
       <div className="grid md:grid-cols-2 gap-12">
         <div className="space-y-4 font-body text-muted-foreground leading-relaxed">
           <p className="text-justify">
-            Computer Science student and passionate Full Stack Developer with hands-on experience building scalable web apps
-            using React and modern JavaScript frameworks. Skilled in both front-end and back-end development, version control, and
-            responsive design. Eager to contribute to innovative tech solutions and grow in a collaborative environment.
+           Computer Science undergraduate (2026) and passionate Full Stack Developer with hands-on experience building scalable,
+responsive web applications using React.js, JavaScript (ES6+), Node.js, and MongoDB. Proven ability to deliver real-world
+projects with clean, maintainable code. Actively seeking opportunities to contribute and grow.
           </p>
-          <p className="text-justify">
-            When I'm not coding, you'll find me exploring new technologies,
-            contributing to open-source projects, or enjoying a good cup of coffee.
-          </p>
+          
         </div>
         <div className="space-y-4">
           <h3 className="font-display text-lg font-semibold text-foreground">Tech Stack</h3>

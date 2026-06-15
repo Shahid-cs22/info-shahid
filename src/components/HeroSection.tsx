@@ -10,7 +10,7 @@ const HeroSection = () => (
         transition={{ delay: 0.2 }}
         className="text-primary font-body text-sm tracking-[0.3em] uppercase mb-6"
       >
-        Full Stack Developer
+        MERN Stack Developer
       </motion.p>
       <motion.h1
         initial={{ opacity: 0, y: 30 }}

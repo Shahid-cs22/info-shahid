@@ -2,9 +2,16 @@ import AnimatedSection from "./AnimatedSection";
 
 const experiences = [
   {
+    role: "Final Year Project",
+    company: "AI Multilingual Crop Recommendation & Pest Detection System",
+    period: "2026",
+    description:
+      "Built an AI-driven multilingual platform that recommends suitable crops, detects pests from crop images, and provides information on government agricultural schemes. Developed using Python, Flask, Bootstrap, and JavaScript with machine learning integration for accurate predictions and farmer-friendly decision support.",
+  },
+  {
     role: "MERN Stack Developer",
     company: "JClick Solution, Nagercoil",
-    period: "2025 — Present",
+    period: "2025 — 2026",
     description: "Gained practical experience in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js, focusing on responsive UI design, API development, and database management.",
   },
   {

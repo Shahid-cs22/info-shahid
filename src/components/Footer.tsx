@@ -4,7 +4,7 @@ const Footer = () => (
       <p className="text-xs text-muted-foreground font-body">
         © {new Date().getFullYear()} <a href="https://github.com/Shahid-cs22" target="_blank" rel="noopener noreferrer">
           moh_shahid04
-        </a> All rights reserved.
+        </a> All rights reserved..
       </p>
     </div>
   </footer>

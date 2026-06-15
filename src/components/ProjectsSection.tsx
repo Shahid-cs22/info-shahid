@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Cakekart",
     description:
-      "Developed a responsive e-commerce cake ordering app using React and Redux with authentication, product listing, cart, and order features. Integrated APIs using Axios, implemented YUP validation, and used JSON Server as the backend.",
+      "Developed a responsive e-commerce cake. ordering app using React and Redux with authentication, product listing, cart, and order features. Integrated APIs using Axios, implemented YUP validation, and used JSON Server as the backend.",
     tech: ["React", "JSON Server", "MUI", "API's", "Axios"],
     github: "https://github.com/Shahid-cs22/CakeKart", // Replace with your repo
     live: "https://cakekart.netlify.app/", // Replace with your live URL

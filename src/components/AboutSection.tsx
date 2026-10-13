@@ -10,8 +10,7 @@ const AboutSection = () => (
       <div className="grid md:grid-cols-2 gap-12">
         <div className="space-y-4 font-body text-muted-foreground leading-relaxed">
           <p className="text-justify">
-            Computer Science graduate (2026) and aspiring Full Stack Developer** with hands-on experience building responsive and user-friendly web applications using React.js, JavaScript (ES6+), Node.js, and MongoDB. Experienced in developing real-world projects with clean, maintainable code and modern web development practices. **Actively seeking an entry-level Full Stack Developer or Software Developer opportunity** to apply my skills, contribute to a growing team, and build my professional career.
-
+Computer Science graduate (2026) and aspiring Full Stack Developer with hands-on experience building responsive, user-friendly web applications using React.js, JavaScript (ES6+), Node.js, MongoDB, and Python. Experienced in developing real-world projects using modern web technologies and writing clean, maintainable code. Seeking an entry-level Full Stack Developer or Software Developer position to apply my technical skills and contribute to innovative projects.
           </p>
 
         </div>
